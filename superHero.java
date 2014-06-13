@@ -63,7 +63,7 @@ class superHero {
                 			  noOfHeros[i]); l++){
                 		  int a = Integer.parseInt(lists[k]);
                 		  int b = Integer.parseInt(lists[l]);
-                		 // System.out.println("-----------------------------------------");
+                		 // System.out.println("------------------------------------------");
                 		  
                 		  matrix[a][b] = matrix[a][b] + netWins[i];
                 		  matrix[b][a] = matrix[b][a] + netWins[i];
