@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 
 import java.io.InputStreamReader;
-
+//commite on git hub directly
 class BitDifference {
 
     public static void main(String[] str) throws IOException {
